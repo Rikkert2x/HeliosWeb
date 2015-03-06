@@ -2,7 +2,11 @@
 
 HeliosWeb is an Web interface for HiCAD+HELiOS
 
-## Requirements 
+## Requirements Client
+* HiCAD
+* HELiOS
+
+## Requirements Server
 * SQL Server 2008 R2
 * SQL Server 2008 R2 Native client 10.x
 * HELiOS Database
